@@ -2,6 +2,7 @@
  * created by Linnea Larson
  * This program will create a system of averaging out two numbers in a series.
  */
+//Hello World
 #include <msp430.h> 
 #include "average.h"
 /*
